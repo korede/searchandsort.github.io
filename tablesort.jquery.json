@@ -17,18 +17,18 @@
         {
             "name": "Sean J MacIsaac",
             "email": "seanjmacisaac@gmail.com",
-            "url": "http://www.seanjmacisaac.com/"
+            "url": "https://www.seanjmacisaac.com/"
         }
     ],
     "licenses": [
         {
             "type": "MIT",
-            "url": "http://opensource.org/licenses/MIT"
+            "url": "https://opensource.org/licenses/MIT"
         }
     ],
     "bugs": "https://github.com/SeanJM/tablesort/issues",
     "homepage": "https://github.com/SeanJM/tablesort",
-    "docs": "http://www.seanjmacisaac.com/projects/code/tablesort/",
+    "docs": "https://www.seanjmacisaac.com/projects/code/tablesort/",
     "download": "https://github.com/SeanJM/tablesort/blob/master/tablesort.js",
     "dependencies": {
         "jquery": ">=1.9"
